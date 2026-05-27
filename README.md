@@ -1,6 +1,6 @@
 # Machine Learning Demo Projects
 
-This repository showcases hands-on machine learning projects demonstrating practical skills in python, data analysis, and model development.Each project focuses on solving real-world classification problem relevant to software and fintech industries.
+This repository showcases hands-on machine learning projects demonstrating practical skills in python, data analysis, and model development.Each project focuses on solving real-world classification problem relevant to software development and IT services.
 
 ## Projects Included
 
