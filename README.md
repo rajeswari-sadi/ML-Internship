@@ -1,7 +1,6 @@
 # Machine Learning Demo Projects
 
-This repository contains three simple demo projects for learning classification using Python and scikit-learn.  
-Each project uses a synthetic dataset to demonstrate how machine learning models work.
+This repository showcases hands-on machine learning projects demonstrating practical skills in python, data analysis, and model development.Each project focuses on solving real-world classification problem relevant to software and fintech industries.
 
 ## Projects Included
 
